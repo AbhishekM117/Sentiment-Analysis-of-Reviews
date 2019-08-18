@@ -1,0 +1,5 @@
+https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/
+
+https://www.kaggle.com/burhanykiyakoglu/predicting-sentiment-from-clothing-reviews/notebook
+
+https://www.kaggle.com/josh24990/nlp-ml-which-words-predict-a-recommendation
